@@ -1,0 +1,21 @@
+<html>
+    
+    <head>
+        <title>
+            my css wepage 
+        </title>
+        <style>
+            ul {
+                 list-style-position:inside;
+                }
+        </style>
+    </head>
+    <body>
+    <ul>
+        <li>azeem akhtar</li>
+        <li>naved akhtar</li>
+        <li>shoaib akhtar</li>
+        <li>salmaan akhtar</li>
+    </ul>
+</body>
+</html>
